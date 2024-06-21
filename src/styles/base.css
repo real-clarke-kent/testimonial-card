@@ -4,7 +4,7 @@
 
 @layer base {
   h1 {
-    @apply text-lg text-primary;
+    @apply text-lg text-primary leading-7;
   }
 
   p {
